@@ -28,13 +28,23 @@
 
 ## 📸 Capturas de Pantalla
 
-1. Se captura el nombre de los amigos participantes
+**1. Se captura el nombre de los amigos participantes
 
 ![imagen](https://github.com/user-attachments/assets/2b681853-29cf-42cf-b0ca-78d7a224d996)
 
-2. Sortea un amigo
+**2. Sortea un amigo
 
 ![imagen](https://github.com/user-attachments/assets/2a137615-c279-4e7a-81e0-9f2f18d0ccef)
+
+**3. No acepta un nombre vacio
+
+![imagen](https://github.com/user-attachments/assets/753fe19c-52e1-4bed-9370-ff6967276476)
+
+**4. No sortea si la lista de amigos esta vacia
+
+![imagen](https://github.com/user-attachments/assets/c45052d2-f618-431b-b74f-cd829035a506)
+
+
 
 ## 📂 Estructura del Proyecto
 
