@@ -28,7 +28,8 @@
 
 ## 📸 Capturas de Pantalla
 
-*Aquí puedes agregar imágenes o gifs del funcionamiento de la aplicación.*
+![imagen](https://github.com/user-attachments/assets/2b681853-29cf-42cf-b0ca-78d7a224d996)
+
 
 ## 📂 Estructura del Proyecto
 
