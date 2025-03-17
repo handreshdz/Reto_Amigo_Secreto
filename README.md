@@ -28,6 +28,10 @@
 
 ## 📸 Capturas de Pantalla
 
+1. Se captura el nombre de los amigos participantes
+![imagen](https://github.com/user-attachments/assets/2a137615-c279-4e7a-81e0-9f2f18d0ccef)
+
+2. Sortea un amigo
 ![imagen](https://github.com/user-attachments/assets/2b681853-29cf-42cf-b0ca-78d7a224d996)
 
 
